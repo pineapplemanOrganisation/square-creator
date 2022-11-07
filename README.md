@@ -6,3 +6,5 @@ in auth put your authorization token(you can find it by pressing f12-->go to net
 
 
 in link put link to a channel that you want to send a square
+
+(you need to install request library(pip install request))
